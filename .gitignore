@@ -20,5 +20,4 @@ Thumbs.db
 *.bak
 *.swp
 
-# Environment files
 .env
